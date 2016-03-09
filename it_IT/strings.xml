@@ -125,7 +125,7 @@
     <string name="teamshare_invite">Inviti di condivisione di squadra</string>
     <string name="do_you_want_to_join_team">Vuoi entrare nella squadra \'%s\'?</string>
     <string name="youve_not_connected_yet">Non sei ancora connesso a nessun server.\nClicca il pulsante connessioni qui sotto per iniziare.</string>
-    <string name="clear_history">Calnella la cronologia</string>
+    <string name="clear_history">Cancella la cronologia</string>
     <string name="sorry">Scusa!</string>
     <string name="a_serious_error_occurred">È stato riscontrato un grave errore e  JuiceSSH necessita di essere riavviato</string>
     <string name="please_select_a_team_member_to_invite">Per favore selezione un membro della squadra da invitare.</string>
